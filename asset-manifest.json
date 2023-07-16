@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/%7Bdaft-punk-soundboard%7D/static/css/main.4f98332d.css",
+    "main.js": "/%7Bdaft-punk-soundboard%7D/static/js/main.28710d1c.js",
+    "static/js/787.e63d6a18.chunk.js": "/%7Bdaft-punk-soundboard%7D/static/js/787.e63d6a18.chunk.js",
+    "static/media/punk.gif": "/%7Bdaft-punk-soundboard%7D/static/media/punk.c20f9b56510d13542204.gif",
+    "static/media/work_it.wav": "/%7Bdaft-punk-soundboard%7D/static/media/work_it.1964a5682fd3c26751f0.wav",
+    "static/media/over.wav": "/%7Bdaft-punk-soundboard%7D/static/media/over.4bfb8f5e32b16279fc95.wav",
+    "static/media/stronger.wav": "/%7Bdaft-punk-soundboard%7D/static/media/stronger.a7dfd7b18ebfe378471e.wav",
+    "static/media/work_is.wav": "/%7Bdaft-punk-soundboard%7D/static/media/work_is.46a018dc808831a7f5c2.wav",
+    "static/media/faster.wav": "/%7Bdaft-punk-soundboard%7D/static/media/faster.3c7a1ef827c153236563.wav",
+    "static/media/hour.wav": "/%7Bdaft-punk-soundboard%7D/static/media/hour.9d8a4890f40b4b618e53.wav",
+    "static/media/better.wav": "/%7Bdaft-punk-soundboard%7D/static/media/better.204955dec74a287d1290.wav",
+    "static/media/harder.wav": "/%7Bdaft-punk-soundboard%7D/static/media/harder.f65e5b610b5b494c94b9.wav",
+    "static/media/make_it.wav": "/%7Bdaft-punk-soundboard%7D/static/media/make_it.18c61842acfc491febb7.wav",
+    "static/media/ever.wav": "/%7Bdaft-punk-soundboard%7D/static/media/ever.509174a92ffc91b18c17.wav",
+    "static/media/after.wav": "/%7Bdaft-punk-soundboard%7D/static/media/after.575668f49b5ef87b827c.wav",
+    "static/media/more_than.wav": "/%7Bdaft-punk-soundboard%7D/static/media/more_than.64bd42e0513f65e2a409.wav",
+    "static/media/our.wav": "/%7Bdaft-punk-soundboard%7D/static/media/our.684ca4807e119c552744.wav",
+    "static/media/do_it.wav": "/%7Bdaft-punk-soundboard%7D/static/media/do_it.b69f51b3e468fbb6bf32.wav",
+    "static/media/makes_us.wav": "/%7Bdaft-punk-soundboard%7D/static/media/makes_us.ba6e235318ccfecd2883.wav",
+    "static/media/never.wav": "/%7Bdaft-punk-soundboard%7D/static/media/never.073a6440986aeb7e0fa3.wav",
+    "index.html": "/%7Bdaft-punk-soundboard%7D/index.html",
+    "main.4f98332d.css.map": "/%7Bdaft-punk-soundboard%7D/static/css/main.4f98332d.css.map",
+    "main.28710d1c.js.map": "/%7Bdaft-punk-soundboard%7D/static/js/main.28710d1c.js.map",
+    "787.e63d6a18.chunk.js.map": "/%7Bdaft-punk-soundboard%7D/static/js/787.e63d6a18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f98332d.css",
+    "static/js/main.28710d1c.js"
+  ]
+}
