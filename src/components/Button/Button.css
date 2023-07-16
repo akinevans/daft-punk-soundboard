@@ -1,0 +1,49 @@
+.button {
+  width: 40%;
+  max-width: 400px;
+  height: 10%;
+  max-height: 200px;
+  font-size: 34px;
+  font-weight: bold;
+  color: White;
+  border: none;
+  opacity: 100%;
+  cursor: pointer;
+  transition: all 1s ease;
+}
+.button:active {
+  background-color: white;
+  transition: all 0.1s ease;
+}
+
+.red {
+  background-color: red;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.teal {
+  background-color: teal;
+}
+
+.green {
+  background-color: green;
+}
+
+.yellow {
+  background-color: rgb(192, 192, 2);
+}
+
+.orange {
+  background-color: orange;
+}
+
+.orange-red {
+  background-color: orangered;
+}/*# sourceMappingURL=Button.css.map */

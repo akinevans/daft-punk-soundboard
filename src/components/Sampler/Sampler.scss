@@ -1,0 +1,26 @@
+.sampler-outer-wrapper,
+.sampler-inner-wrapper {
+  display: flex;
+  // flex-wrap: wrap;
+  //   flex-direction: column;
+}
+
+.sampler-outer-wrapper {
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  max-width: 1000px;
+  height: 100vh;
+  // outline: 2px solid red;
+
+  .sampler-inner-wrapper {
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    max-width: 80%;
+    height: 95%;
+    // outline: 2px solid blue;
+  } // end inner wrapper
+} // end outer wrapper

@@ -1,0 +1,21 @@
+.sampler-outer-wrapper,
+.sampler-inner-wrapper {
+  display: flex;
+}
+
+.sampler-outer-wrapper {
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  max-width: 1000px;
+  height: 100vh;
+}
+.sampler-outer-wrapper .sampler-inner-wrapper {
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  max-width: 80%;
+  height: 95%;
+}/*# sourceMappingURL=Sampler.css.map */
