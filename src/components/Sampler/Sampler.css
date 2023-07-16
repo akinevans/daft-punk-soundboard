@@ -6,6 +6,7 @@
 .sampler-outer-wrapper {
   justify-content: center;
   align-items: center;
+  margin-top: 15px;
   width: 100vw;
   max-width: 1000px;
   height: 100vh;
@@ -18,4 +19,7 @@
   width: 90%;
   max-width: 80%;
   height: 95%;
+}
+.sampler-outer-wrapper .sampler-inner-wrapper .punk-img {
+  width: 87%;
 }/*# sourceMappingURL=Sampler.css.map */

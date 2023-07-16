@@ -1,8 +1,38 @@
-@import-normalize;
-
 .App {
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  background-color: black;
+  background-color: rgba(0, 0, 0, 0.6);
+  transition: all 0.1s ease;
 }
+
+.sampler-outer-wrapper,
+.sampler-inner-wrapper {
+  display: flex;
+}
+
+.sampler-outer-wrapper {
+  justify-content: center;
+  align-items: center;
+  margin-top: 15px;
+  width: 100vw;
+  max-width: 1000px;
+  height: 100vh;
+}
+.sampler-outer-wrapper .sampler-inner-wrapper {
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  max-width: 80%;
+  height: 95%;
+}
+.sampler-outer-wrapper .sampler-inner-wrapper .punk-img {
+  width: 87%;
+}
+
+.delete {
+  color: hsla(0, 100%, 50%, 0.194);
+}/*# sourceMappingURL=App.css.map */

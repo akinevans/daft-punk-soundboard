@@ -1,3 +1,14 @@
+.App {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  //^ background color should have opacity lower than 100
+  background-color: rgba(0, 0, 0, 0.6);
+
+  transition: all 0.1s ease;
+}
+
 .sampler-outer-wrapper,
 .sampler-inner-wrapper {
   display: flex;
@@ -29,3 +40,7 @@
     }
   } // end inner wrapper
 } // end outer wrapper
+
+.delete {
+  color: hsla(0, 100%, 50%, 0.194);
+}
