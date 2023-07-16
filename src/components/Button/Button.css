@@ -1,19 +1,22 @@
 .button {
   width: 42%;
   max-width: 400px;
-  height: 65px;
+  height: 60px;
   max-height: 200px;
-  font-size: 28px;
+  margin-bottom: 10px;
+  padding: 5px;
+  font-size: 22px;
   font-weight: bold;
   color: White;
   border: none;
   opacity: 100%;
   cursor: pointer;
-  transition: all 1s ease;
+  background-color: white;
+  transition: background-color 2.5s ease;
 }
 .button:active {
   background-color: white;
-  transition: all 0.1s ease;
+  transition: background-color 0.1s ease;
 }
 
 .red {

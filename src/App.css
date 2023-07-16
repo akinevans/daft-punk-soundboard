@@ -1,5 +1,7 @@
 .App {
+  width: 100vw;
   height: 100vh;
+  max-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -15,10 +17,10 @@
 .sampler-outer-wrapper {
   justify-content: center;
   align-items: center;
-  margin-top: 15px;
-  width: 100vw;
+  width: 100%;
   max-width: 1000px;
-  height: 100vh;
+  height: -moz-fit-content;
+  height: fit-content;
 }
 .sampler-outer-wrapper .sampler-inner-wrapper {
   flex-wrap: wrap;

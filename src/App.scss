@@ -1,12 +1,14 @@
 .App {
+  width: 100vw;
   height: 100vh;
+  max-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
   //^ background color should have opacity lower than 100
   background-color: rgba(0, 0, 0, 0.6);
-
   transition: all 0.1s ease;
+  //   border: 2px solid red;
 }
 
 .sampler-outer-wrapper,
@@ -19,11 +21,11 @@
 .sampler-outer-wrapper {
   justify-content: center;
   align-items: center;
-  margin-top: 15px;
-  width: 100vw;
+  //   margin-bottom: 20px;
+  width: 100%;
   max-width: 1000px;
-  height: 100vh;
-  // outline: 2px solid red;
+  height: fit-content;
+  //   outline: 2px solid red;
 
   .sampler-inner-wrapper {
     flex-wrap: wrap;

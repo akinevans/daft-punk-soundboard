@@ -1,5 +1,6 @@
 import React from "react";
 import { useState, useEffect } from "react";
+import { motion } from "framer-motion";
 import "./Button.css";
 
 export default function Button(props) {
@@ -24,7 +25,9 @@ export default function Button(props) {
   }, [color]);
 
   return (
-    <button
+    <motion.button
+      // whileTap={{ scale: 0.95 }}
+      // transition={{ duration: 0.1 }}
       onClick={() => {
         play(props.sample);
         click(props.color);
@@ -32,6 +35,6 @@ export default function Button(props) {
       className={`${props.className} button`}
     >
       {props.title}
-    </button>
+    </motion.button>
   );
 }
