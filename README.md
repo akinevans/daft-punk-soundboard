@@ -1,3 +1,7 @@
+
+https://akinevans.github.io/daft-punk-soundboard/
+[Check out the demo here =)](https://akinevans.github.io/daft-punk-soundboard/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
