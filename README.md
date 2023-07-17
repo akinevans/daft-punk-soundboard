@@ -1,5 +1,3 @@
-
-https://akinevans.github.io/daft-punk-soundboard/
 [Check out the demo here =)](https://akinevans.github.io/daft-punk-soundboard/)
 
 # Getting Started with Create React App
